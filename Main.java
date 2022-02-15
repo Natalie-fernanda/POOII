@@ -1,7 +1,11 @@
+//Programa que a partir de um valor e um limite calcula os conjuntos, união, interseção e diferença.
+
+
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
+
 
 class Main {
 	public static void main(String[] args) {
